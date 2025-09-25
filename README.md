@@ -1,4 +1,4 @@
-SQL Task 3 - Complete Solution
+
 -- Create Database
 CREATE DATABASE CompanyDB;
 USE CompanyDB;
